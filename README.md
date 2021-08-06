@@ -4,6 +4,7 @@
 ## Research 
 
 1. Landing an Impactful Research Project by Mr. Ashwin De Silva [[video]](https://youtu.be/qNz2S5G8GuM) [[pdf]](https://laknath1996.github.io/docs/talks/kickstarting_projects_2021.pdf)
+2. [Convert PDFs to Audiobooks with Machine Learning](https://konfido.github.io/Convert-PDFs-to-Audiobooks-with-Machine-Learning/)
 
 ## AI
 
