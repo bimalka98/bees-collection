@@ -27,7 +27,7 @@ As Chisel is a Scala library, all IDEs that support Scala are also good IDEs for
 
 Scala itself depends on the installation of the Java JDK 1.8. which is also known as Java SE Development Kit 8 (https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) You need to install this first.
 
-1. [Install IntelliJ])https://youtu.be/EMLTOMdIz4w) here in this guide you will be installing the latest JDK. But chisel requires JDK 1.8.! We can configure the required JDK version maually throgh the IntelliJ IDE later. So nothing to worry at all!
+1. [Install IntelliJ](https://youtu.be/EMLTOMdIz4w) here in this guide you will be installing the latest JDK. But chisel requires JDK 1.8.! We can configure the required JDK version for a given project  maually throgh the IntelliJ IDE later. So nothing to worry at all!
 2. [Setup Scala on IntelliJ](https://youtu.be/u0FLmrnAm5k)
 3. Install sbt[Scala built tool](https://www.scala-sbt.org/release/docs/Setup.html). This is a common link for all the Operating systems. So navigate to `Installing sbt on Windows` from the left side drop down menu, Download msi installer and install it. 
 4. Make sure to include all the JDKs in your environment path variables!
