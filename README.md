@@ -2,6 +2,7 @@
 
 1. Landing an Impactful Research Project by Mr. Ashwin De Silva [[video]](https://youtu.be/qNz2S5G8GuM) [[pdf]](https://laknath1996.github.io/docs/talks/kickstarting_projects_2021.pdf)
 2. [Convert PDFs to Audiobooks with Machine Learning](https://konfido.github.io/Convert-PDFs-to-Audiobooks-with-Machine-Learning/)
+3. [Google Advanced Search](guides/google%20advanced%20search.md)
 
 ---
 
@@ -14,4 +15,4 @@
 
 ## ▶ *SIGRVPD - Special Interest Group RISC-V Processor Design - University of Moratuwa*
 
-1. [Installing Chisel and FPGA Tools](https://github.com/bimalka98/bees-collection/blob/main/chisel3.md#installing-chisel-and-fpga-tools)
+1. [Installing Chisel and FPGA Tools](guides/chisel3.md)
