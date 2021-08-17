@@ -13,6 +13,7 @@
 ## ▶ *AI*
 
 1. Papers & tech blogs by companies sharing their work on data science & machine learning in production [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)
+2. [Creating a virtual environment for Computer Vision](guides/venv.md)
 
 ---
 
