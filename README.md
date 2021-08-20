@@ -14,6 +14,7 @@
 
 1. Papers & tech blogs by companies sharing their work on data science & machine learning in production [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)
 2. [Creating a virtual environment for Computer Vision](guides/venv.md)
+3. OCTAVE(The John Keells Group Data and Advanced Analytics Center of Excellence) [YouTube](https://www.youtube.com/channel/UCW5L-2mSBb7rOcIBmawtZSw)
 
 ---
 
