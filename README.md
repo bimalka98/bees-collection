@@ -9,6 +9,11 @@
 
 ---
 
+## ▶ *Random utilities and tools*
+
+1. [PDF merger](https://github.com/pymupdf/PyMuPDF/wiki/Inserting-Pages-from-other-PDFs)
+
+---
 
 ## ▶ *AI*
 
