@@ -36,3 +36,21 @@ Scala itself depends on the installation of the Java JDK 1.8. which is also know
 7. Open the terminal in IntelliJ and try executing `sbt run`.
 8. That's it.! If it's not working simply restart the IntelliJ IDEA and give it a try again.
 
+
+### ======= Installing Verilator =======
+
+> ***Using WSL2***
+
+```shell
+bimalka98@LAP-BIMALKA98:~$ sudo apt-get install verilator  #to install verilator
+bimalka98@LAP-BIMALKA98:~$ verilator
+Usage:
+        verilator --help
+        verilator --version
+        verilator --cc [options] [source_files.v]... [opt_c_files.cpp/c/cc/a/o/so]
+        verilator --sc [options] [source_files.v]... [opt_c_files.cpp/c/cc/a/o/so]
+        verilator --lint-only -Wall [source_files.v]...
+
+bimalka98@LAP-BIMALKA98:~$ dpkg --listfiles verilator #find the directories of the verilator to change the directory
+bimalka98@LAP-BIMALKA98:~$ cd /usr/share/doc/verilator/examples #changing directory to examples 
+```
