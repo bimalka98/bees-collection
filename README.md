@@ -29,7 +29,7 @@
 
 ## ▶ Guides to install some software: the half-blood prince versions🤫😂
 
-1. [Installing Chisel and FPGA Tools](guides/chisel3.md) for *SIGRVPD - Special Interest Group RISC-V Processor Design - University of Moratuwa*
+1. [Installing Chisel and FPGA Tools and Verilator](guides/chisel3.md) for *SIGRVPD - Special Interest Group RISC-V Processor Design - University of Moratuwa*
 2. [Creating a virtual environment](guides/venv.md) for Computer Vision
 
 ---
