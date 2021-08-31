@@ -61,3 +61,11 @@ Usage:
 bimalka98@LAP-BIMALKA98:~$ dpkg --listfiles verilator #find the directories of the verilator to change the directory
 bimalka98@LAP-BIMALKA98:~$ cd /usr/share/doc/verilator/examples #changing directory to examples
 ```
+> ***View files in ubuntu system using windows file explorer***
+
+```
+// type following address in the address bar of the file explorer
+
+\\wsl$\Ubuntu-20.04\usr\share\doc\verilator\examples
+
+```
