@@ -80,6 +80,6 @@ bimalka98@LAP-BIMALKA98:~$ cd /usr/share/doc/verilator/examples #changing direct
 3. Check the following boxes
 
 ```
-Show in file context menus
-Show in folder context menus
+✅ Show in file context menus
+✅ Show in folder context menus
 ```
