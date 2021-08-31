@@ -69,3 +69,17 @@ bimalka98@LAP-BIMALKA98:~$ cd /usr/share/doc/verilator/examples #changing direct
 \\wsl$\Ubuntu-20.04\usr\share\doc\verilator\examples
 
 ```
+> ***Open with atom editor for better view : showing open with atom when right clicking file or folder in windows 10***
+
+[Guide](https://www.radishlogic.com/atom-text-editor/showing-open-with-atom-when-right-clicking-file-or-folder-in-windows-10/)
+
+*Steps*
+
+1. Open Atom Text Editor
+2. Go to FILES --> SETTINGS --> SYSTEM
+3. Check the following boxes
+
+```
+Show in file context menus
+Show in folder context menus
+```
