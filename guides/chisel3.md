@@ -21,6 +21,8 @@ To build hardware for an FPGA, you need a synthesize tool. The two major FPGA ve
 
 You can add additional device support to an existing Quartus Prime software installation without having to reinstall the entire software package. Use the `Install Devices` command on the Tools menu in the Quartus Prime software to get started.
 
+---
+
 ### ============================= Installing Chisel ============================
 
 As Chisel is a Scala library, all IDEs that support Scala are also good IDEs for Chisel. It is possible in Eclipse and IntelliJ to generate a project from the sbt project configuration in build.sbt. I found that configuring IntelliJ IDEA for chisel is much easier and faster.
@@ -36,6 +38,7 @@ Scala itself depends on the installation of the Java JDK 1.8. which is also know
 7. Open the terminal in IntelliJ and try executing `sbt run`.
 8. That's it.! If it's not working simply restart the IntelliJ IDEA and give it a try again.
 
+---
 
 ### =========================== Installing Verilator ===========================
 
