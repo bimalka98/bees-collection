@@ -12,10 +12,11 @@
 
 ---
 
-## ▶ *AI*
+## ▶ *AI, ML, DL*
 
 1. Papers & tech blogs by companies sharing their work on data science & machine learning in production [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)
 2. OCTAVE(The John Keells Group Data and Advanced Analytics Center of Excellence) Webinars [YouTube](https://www.youtube.com/channel/UCW5L-2mSBb7rOcIBmawtZSw)
+3. [Machine Learning on Graphs](https://youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-)
 
 ---
 
