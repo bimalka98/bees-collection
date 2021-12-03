@@ -58,3 +58,9 @@
 - Biggs and Collins (1982) developed the ***[SOLO](https://itali.uq.edu.au/files/3047/Resources-teaching-methods-SOLO-taxonomy.pdf)*** (Structure of Observed Learning Outcomes) taxonomy as a systematic way of describing how a learner’s performance grows in complexity when mastering tasks. Performance levels of learners range  from the lower end (Pre-structural)  to the higher end (Extended Abstract) 
 
 - *Research level can be identified as the SOLO level 5!: **Extended Abstract Level** The student may generalize structure beyond what was given, may perceive structure from many different perspectives, and transfer ideas to new areas. He/she may have the competence to generalise, hypothesise, criticize or theorise.*
+
+## Excel Tricks
+
+* Trim primary key `=TRIM(A:A)`
+* Check availability of primary key on another sheet `=COUNTIF(<other sheet name>!E:E,F:F)>0`
+* Filter rows depending on a key `=filter(<other sheet name>!A:E,<other sheet name>!G:G=FALSE)`
