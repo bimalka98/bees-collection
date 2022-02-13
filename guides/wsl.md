@@ -5,15 +5,15 @@
 1. [Installing WSL](https://youtu.be/D7Em1wjMiak)
 2. [Change WSL's directory](https://youtu.be/ON_dPAO4KZs) so you can peacefully install packages as much as you want without having to worry about the limited storage of the Windows active partition C:\\!
 
-> ***View files in ubuntu system using windows file explorer***
+## ***View files in ubuntu system using windows file explorer***
 
 ```
 // type following address in the address bar of the file explorer
 
-\\wsl$\Ubuntu-20.04\usr\share\doc\verilator\examples
+\\wsl$
 
 ```
-> ***Open with atom editor for better view : showing open with atom when right clicking file or folder in windows 10***
+## ***Open with atom editor for better view : showing open with atom when right clicking file or folder in windows 10***
 
 [Guide](https://www.radishlogic.com/atom-text-editor/showing-open-with-atom-when-right-clicking-file-or-folder-in-windows-10/)
 
