@@ -52,13 +52,19 @@
 
 1. What does "Learning Outcomes" in your course outline really mean? 
 
-- They made no sense for me until I get to know about ***[REVISED	Bloom’s	Taxonomy](https://www.apu.edu/live_data/files/333/blooms_taxonomy_action_verbs.pdf)*** in the beginning  of my third year at uni!😐 *There are six levels of cognitive learning according to the revised version of Bloom's Taxonomy. Each level is conceptually different. The six levels are remembering, understanding, applying, analyzing, evaluating, and creating. These levels can be helpful in developing learning outcomes because certain verbs are particularly appropriate at each level and not appropriate at other levels.*
+  - They made no sense for me until I get to know about ***[REVISED	Bloom’s	Taxonomy](https://www.apu.edu/live_data/files/333/blooms_taxonomy_action_verbs.pdf)*** in the beginning  of my third year at uni!😐 *There are six levels of cognitive learning according to the revised version of Bloom's Taxonomy. Each level is conceptually different. The six levels are remembering, understanding, applying, analyzing, evaluating, and creating. These levels can be helpful in developing learning outcomes because certain verbs are particularly appropriate at each level and not appropriate at other levels.*
 
 2. What is the performance level that you are required to have as a university student?
 
-- Biggs and Collins (1982) developed the ***[SOLO](https://itali.uq.edu.au/files/3047/Resources-teaching-methods-SOLO-taxonomy.pdf)*** (Structure of Observed Learning Outcomes) taxonomy as a systematic way of describing how a learner’s performance grows in complexity when mastering tasks. Performance levels of learners range  from the lower end (Pre-structural)  to the higher end (Extended Abstract) 
+  - Biggs and Collins (1982) developed the ***[SOLO](https://itali.uq.edu.au/files/3047/Resources-teaching-methods-SOLO-taxonomy.pdf)*** (Structure of Observed Learning Outcomes) taxonomy as a systematic way of describing how a learner’s performance grows in complexity when mastering tasks. Performance levels of learners range  from the lower end (Pre-structural)  to the higher end (Extended Abstract) 
 
-- *Research level can be identified as the SOLO level 5!: **Extended Abstract Level** The student may generalize structure beyond what was given, may perceive structure from many different perspectives, and transfer ideas to new areas. He/she may have the competence to generalise, hypothesise, criticize or theorise.*
+  - *Research level can be identified as the SOLO level 5!: **Extended Abstract Level** The student may generalize structure beyond what was given, may perceive structure from many different perspectives, and transfer ideas to new areas. He/she may have the competence to generalise, hypothesise, criticize or theorise.*
+
+3. [How to Speak by Patrick Winston](https://youtu.be/Unzc731iCUY) 
+
+  - *Patrick Winston's How to Speak talk has been an MIT tradition for over 40 years. Offered every January, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules.*
+
+---
 
 ## Excel Tricks
 
