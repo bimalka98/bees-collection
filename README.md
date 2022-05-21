@@ -60,7 +60,7 @@
 
   - *Research level can be identified as the SOLO level 5!: **Extended Abstract Level** The student may generalize structure beyond what was given, may perceive structure from many different perspectives, and transfer ideas to new areas. He/she may have the competence to generalise, hypothesise, criticize or theorise.*
 
-3. [How to Speak by Patrick Winston](https://youtu.be/Unzc731iCUY) 
+3. [**How to Speak by Patrick Winston**](https://youtu.be/Unzc731iCUY) 
 
   - *Patrick Winston's How to Speak talk has been an MIT tradition for over 40 years. Offered every January, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules.*
 
