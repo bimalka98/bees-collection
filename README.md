@@ -43,6 +43,7 @@
 2. [Creating a virtual environment](guides/venv.md) for Computer Vision
 3. [Accessing the Raspberry Pi through the command prompt for the first time(with Rpi OS installation)](guides/raspberrypi.md)
 4. [Installing Windows Subsystem for Linux + Change WSL's directory to another Drive other than Window C:\\](guides/wsl.md)
+5. [Dual Boot Windows and Ubuntu Correctly](https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/)
 
 ---
 
